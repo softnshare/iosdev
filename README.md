@@ -8,7 +8,7 @@
 ## 相關社群網站
 
 - Slack
-  - [[中文] softnshare 討論空間 （https://softnshare.slack.com/messages/forum-iosdev/）
+  - [中文] softnshare 討論空間 （https://softnshare.slack.com/messages/forum-iosdev/）
   
   
 
