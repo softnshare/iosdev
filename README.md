@@ -6,8 +6,12 @@
 
 
 ## 相關社群網站
+- Facebook
+
+- Twitter
 
 - Slack
+
   - [中文] softnshare 討論空間 （https://softnshare.slack.com/messages/forum-iosdev/）
   
 - Trello
