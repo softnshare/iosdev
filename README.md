@@ -10,6 +10,8 @@
 - Slack
   - [中文] softnshare 討論空間 （https://softnshare.slack.com/messages/forum-iosdev/）
   
+- Trello
+  - [中文] soft & share 筆記空間 （https://trello.com/b/TaGqi3ly/soft-share-forum-iosdev）
   
 
 ## 相關程式語言論壇
