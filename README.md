@@ -34,6 +34,7 @@
   - [中文]  [softnshare 討論空間](https://softnshare.slack.com/messages/forum-iosdev/)
   
 - GitHub
+  - [中文]  [Git 資訊](https://github.com/softnshare/devtools/tree/master/git)
 
 ## 相關書籍教材推薦
 
@@ -41,8 +42,8 @@
 ## 相關讀書會資訊
 
 
-## 相關程式語言論壇
- 
+## 相關程式語言網站/論壇
+  - [中文] [為什麼要練習编碼套路(Code Kata)？](http://codingpy.com/article/why-do-code-katas/)
  
 ## 相關開放原始碼專案
 
