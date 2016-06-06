@@ -36,6 +36,7 @@
 - GitHub
   
   - [中文]  [Git 基本操作](https://github.com/softnshare/devtools/tree/master/git)
+  - [英文]  [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club)
 
 ## 相關書籍教材推薦
 
