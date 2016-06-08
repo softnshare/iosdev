@@ -45,7 +45,7 @@
 ## 相關讀書會資訊
 
 
-## 相關程式語言網業文章/論壇
+## 相關程式語言網頁文章/論壇
   
   - [中文] [為什麼要練習编碼套路(Code Kata)？](http://codingpy.com/article/why-do-code-katas/)
   - [中文] [程式自學十年心得：想吃這行飯，學好演算法與資料結構才能讓你站穩腳步](http://buzzorange.com/techorange/2016/04/13/self-study-program-with-datastructure-and-algorithm/)
