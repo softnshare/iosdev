@@ -25,13 +25,17 @@
 
 ## 相關資料來源
 
--Facebook 社團
+- Facebook
 
 - Twitter 
 
 - Slack
 
   - [中文]  [softnshare 討論空間](https://softnshare.slack.com/messages/forum-iosdev/)
+
+- Medium
+
+  - [英文]  [How To Invest In Yourself](https://medium.com/life-learning/how-to-invest-in-yourself-417fab1bc665#.1zt2uadco)
   
 - GitHub
   
@@ -51,9 +55,12 @@
   - [中文] [程式自學十年心得：想吃這行飯，學好演算法與資料結構才能讓你站穩腳步](http://buzzorange.com/techorange/2016/04/13/self-study-program-with-datastructure-and-algorithm/)
 ## 相關開放原始碼專案
 
- - Facebook 
-    - [英文]  [Accout Kit](https://developers.facebook.com/docs/accountkit)
-    
+- Facebook 
+
+- Google
+ 
+
+ 
 ## 使用github issue寫微部落格
 如果您有撰寫iOS開發心得相關文章, 想要與slack channel中的網友分享, 可以透過[github issue](https://github.com/softnshare/iosdev/issues)來發佈你的心得分享, 發佈後會同步到slack channel , 要加入分享行列請來信與我聯絡 my@esast.com 請註明iOS
 
