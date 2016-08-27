@@ -47,7 +47,8 @@
   - [從 Objective-C 到 Swift](https://dearhui.gitbooks.io/objective-c-to-swift/content/data_type.html)
   - [Swift 起步走](https://itisjoe.gitbooks.io/swiftgo/content/?q=)
   - [實作 Swift 設計模式](https://wildenchen.gitbooks.io/swift-design-patterns/content/)
-[英文] 
+
+#[英文] 
   - [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club)
   
 ## 相關書籍教材推薦
