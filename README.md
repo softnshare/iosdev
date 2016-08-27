@@ -31,7 +31,7 @@
 
 - Slack
 
- -[中文] 
+ - [中文] 
    - [softnshare 討論空間](https://softnshare.slack.com/messages/forum-iosdev/)
 
 - Medium
@@ -41,14 +41,14 @@
   
 - GitHub
   
- -[中文]  
+ - [中文]  
    - [Git 基本操作](https://github.com/softnshare/devtools/tree/master/git)
    - [正體中文版蘋果 Swift2.0 官方教學](https://tommy60703.gitbooks.io/swift-language-traditional-chinese/content/)
    - [從 Objective-C 到 Swift](https://dearhui.gitbooks.io/objective-c-to-swift/content/data_type.html)
    - [Swift 起步走](https://itisjoe.gitbooks.io/swiftgo/content/?q=)
    - [實作 Swift 設計模式](https://wildenchen.gitbooks.io/swift-design-patterns/content/)
 
- -[英文] 
+ - [英文] 
    - [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club)
   
 ## 相關書籍教材推薦
@@ -63,7 +63,7 @@
 
 ## 相關程式語言網頁文章/論壇
   
- -[中文] 
+ - [中文] 
    - [為什麼要練習编碼套路(Code Kata)？](http://codingpy.com/article/why-do-code-katas/)
    - [程式自學十年心得：想吃這行飯，學好演算法與資料結構才能讓你站穩腳步](http://buzzorange.com/techorange/2016/04/13/self-study-program-with-datastructure-and-algorithm/)
 
