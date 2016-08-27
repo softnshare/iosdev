@@ -32,24 +32,24 @@
 - Slack
 
  - [中文] 
-   - [softnshare 討論空間](https://softnshare.slack.com/messages/forum-iosdev/)
+  - [softnshare 討論空間](https://softnshare.slack.com/messages/forum-iosdev/)
 
 - Medium
 
- -[英文] 
-   - [How To Invest In Yourself](https://medium.com/life-learning/how-to-invest-in-yourself-417fab1bc665#.1zt2uadco)
+ - [英文] 
+  - [How To Invest In Yourself](https://medium.com/life-learning/how-to-invest-in-yourself-417fab1bc665#.1zt2uadco)
   
 - GitHub
   
  - [中文]  
-   - [Git 基本操作](https://github.com/softnshare/devtools/tree/master/git)
-   - [正體中文版蘋果 Swift2.0 官方教學](https://tommy60703.gitbooks.io/swift-language-traditional-chinese/content/)
-   - [從 Objective-C 到 Swift](https://dearhui.gitbooks.io/objective-c-to-swift/content/data_type.html)
-   - [Swift 起步走](https://itisjoe.gitbooks.io/swiftgo/content/?q=)
-   - [實作 Swift 設計模式](https://wildenchen.gitbooks.io/swift-design-patterns/content/)
+  - [Git 基本操作](https://github.com/softnshare/devtools/tree/master/git)
+  - [正體中文版蘋果 Swift2.0 官方教學](https://tommy60703.gitbooks.io/swift-language-traditional-chinese/content/)
+  - [從 Objective-C 到 Swift](https://dearhui.gitbooks.io/objective-c-to-swift/content/data_type.html)
+  - [Swift 起步走](https://itisjoe.gitbooks.io/swiftgo/content/?q=)
+  - [實作 Swift 設計模式](https://wildenchen.gitbooks.io/swift-design-patterns/content/)
 
  - [英文] 
-   - [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club)
+  - [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club)
   
 ## 相關書籍教材推薦
 
